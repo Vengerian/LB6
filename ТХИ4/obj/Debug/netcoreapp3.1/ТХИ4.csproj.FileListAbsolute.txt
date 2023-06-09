@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\ТХИ4\ТХИ4\bin\Debug\netcoreapp3.1\ТХИ4.exe
+C:\Users\user\Desktop\ТХИ4\ТХИ4\bin\Debug\netcoreapp3.1\ТХИ4.deps.json
+C:\Users\user\Desktop\ТХИ4\ТХИ4\bin\Debug\netcoreapp3.1\ТХИ4.runtimeconfig.json
+C:\Users\user\Desktop\ТХИ4\ТХИ4\bin\Debug\netcoreapp3.1\ТХИ4.runtimeconfig.dev.json
+C:\Users\user\Desktop\ТХИ4\ТХИ4\bin\Debug\netcoreapp3.1\ТХИ4.dll
+C:\Users\user\Desktop\ТХИ4\ТХИ4\bin\Debug\netcoreapp3.1\ТХИ4.pdb
+C:\Users\user\Desktop\ТХИ4\ТХИ4\obj\Debug\netcoreapp3.1\ТХИ4.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ТХИ4\ТХИ4\obj\Debug\netcoreapp3.1\ТХИ4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ТХИ4\ТХИ4\obj\Debug\netcoreapp3.1\ТХИ4.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ТХИ4\ТХИ4\obj\Debug\netcoreapp3.1\ТХИ4.AssemblyInfo.cs
+C:\Users\user\Desktop\ТХИ4\ТХИ4\obj\Debug\netcoreapp3.1\ТХИ4.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ТХИ4\ТХИ4\obj\Debug\netcoreapp3.1\ТХИ4.dll
+C:\Users\user\Desktop\ТХИ4\ТХИ4\obj\Debug\netcoreapp3.1\ТХИ4.pdb
+C:\Users\user\Desktop\ТХИ4\ТХИ4\obj\Debug\netcoreapp3.1\ТХИ4.genruntimeconfig.cache
